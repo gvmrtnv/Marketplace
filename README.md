@@ -27,8 +27,8 @@ Implemented API:
 - MessageKit for chat functions 
 
 Extra information:
-- Arhcitekture pattern is MVC, as the easiest one, since the project was supposed to be
+- The arhcitecture pattern is MVC, as the easiest one, since the project was supposed to be
 not too sophisticated and designed only by myself
-- Mock-up was made with use of story-boards (as easiest and fastest way) and gradually replaced with 
+- Mock-up was made with the use of story-boards (as the easiest and fastest way) and gradually replaced with 
 programmatic design (for сontrol and UI-Design purposes)
 - I planned to add more comments into code, but haven't managed it yet - sorry =)
