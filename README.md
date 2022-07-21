@@ -1,5 +1,5 @@
 # Marketplace
-One of my pet-projects with use of UIKit, Cocoapods abd Firebase.
+One of my pet-projects with use of UIKit, Cocoapods and Firebase.
 This App is a local job Marketplace, which should give people possibility to offer services 
 and find professionals in the area.
 
